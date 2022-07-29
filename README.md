@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Qiniu
-- 🌱 I’m currently learning Go/Rust
+- 🔭 I’m currently working on SonicWall
+- 🌱 I’m currently learning Go/Rust, Block Chain
 - 📫 How to reach me: jokerblack2508826394@gmail.com
 - 📖 Golang article: 👉[click me](https://github.com/SuanCaiYv/GoBaseLearn/blob/master/advance/doc/1.md)👈
 - 📖 Rust article: 👉[click me](https://github.com/SuanCaiYv/rust_learn/blob/master/doc/1.md)👈
